@@ -1,1 +1,1 @@
-web: gunicorn swimblog.wsgi
+ web: gunicorn swimblog.wsgi
